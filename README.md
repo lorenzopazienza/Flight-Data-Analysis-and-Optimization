@@ -33,7 +33,7 @@ In addition to classical data analysis, airports and flight routes are modeled a
 
 ## Repository Contents
 
-- `TASKS.py` – Main implementation containing data processing, analytics, algorithm benchmarking, and network analysis workflows
+- `notebook.py` – Main implementation containing data processing, analytics, algorithm benchmarking, and network analysis workflows
 - `Project Work` – Project report and documentation
 - `Data.zip` – Flight and airport datasets used for analysis
 
